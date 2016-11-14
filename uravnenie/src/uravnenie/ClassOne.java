@@ -13,10 +13,10 @@ public class ClassOne {
 	    double b = getNumber();
 	    System.out.println("Input number c->>");
 	    double c = getNumber();
-
+ 
 	    double d = (b*b)-4*a*c;
 //	    System.out.println("d="+d);
-	    
+	    //
 	    if(d<0){
 	    	System.err.println("No answer!");
 	    } else{
